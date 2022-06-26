@@ -1,2 +1,2 @@
 # modules
-management github action, terraform modules
+management terraform modules
